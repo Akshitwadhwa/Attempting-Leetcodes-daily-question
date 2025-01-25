@@ -1,0 +1,6 @@
+# This is the solution to the question on 25th Jan which is done by me in the language python
+
+-- Now in this question, we have to swap the elements one by one which means comparing the elements one by by with each other starting from the leftmost side
+-- so in this, we have been given the nums as [1, 5 , 3, 9 , 8]
+ we have to first sort the given array with the next element , so the data given to use is the
+
